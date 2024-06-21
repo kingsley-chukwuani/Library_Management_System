@@ -6,7 +6,7 @@ This project is a simple Library Management System implemented in JavaScript. It
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone `https://github.com/kingsley-chukwuani/Library_Management_System.git`
+   git clone  `https://github.com/kingsley-chukwuani/Library_Management_System.git`
    ```
 2. Navigate to the project directory:
    ```sh
