@@ -1,0 +1,16 @@
+{
+  "name": "library_management_system",
+  "version": "1.0.0",
+  "main": "libraryManagementSystem.js",
+  "scripts": {
+    "start": "node libraryManagementSystem.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
